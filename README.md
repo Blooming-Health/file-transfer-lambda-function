@@ -20,3 +20,4 @@ Compress-Archive -Path * -DestinationPath ..\lambda_deploy.zip
 
 # Go back to the project root
 cd ..
+
